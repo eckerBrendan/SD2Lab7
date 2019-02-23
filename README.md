@@ -1,8 +1,8 @@
 # SD2Lab7
 This program is like SD2Lab4.
 Instead of creating a happy christmas scene it reads a file with a specific fomrat.
-the format is:
-Demonstration Picture                                    //Title
+the format is: \n
+Demonstration Picture                                    //Title \n
 800 600                                                  //Width and Height
 #F0F0F0                                                  //Background Color
 P: 40 40 #000000                                         //P for point, x,y coordiante, color
